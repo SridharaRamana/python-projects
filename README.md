@@ -1,16 +1,23 @@
 # Python Projects
 
+A collection of Python projects built from scratch.
+
+---
+
 ## 1. Student Grade Calculator
 
-A Python program that takes student marks, identifies 
-pass/fail, finds the topper, and calculates class average.
-
-**Built using:** Python, Dictionaries, Loops, f-strings
+A program that evaluates student performance.
 
 **What it does:**
-- Identifies which students passed or failed
+- Checks if each student passed or failed
 - Finds the class topper
 - Calculates class average
 
+**Built using:** Python, Dictionaries, Loops, f-strings
+
 **How to run:**
-python grade_calculator.py
+```python grade_calculator.py ```
+
+---
+*More projects coming soon...*
+```
