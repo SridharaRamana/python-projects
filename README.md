@@ -14,10 +14,3 @@ A program that evaluates student performance.
 - Calculates class average
 
 **Built using:** Python, Dictionaries, Loops, f-strings
-
-**How to run:**
-```python grade_calculator.py ```
-
----
-*More projects coming soon...*
-```
