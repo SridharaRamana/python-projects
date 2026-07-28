@@ -14,3 +14,15 @@ A program that evaluates student performance.
 - Calculates class average
 
 **Built using:** Python, Dictionaries, Loops, f-strings
+
+## 2. Contact Book
+
+A command-line contact manager with full CRUD operations.
+
+**What it does:**
+- Add new contacts with name and phone number
+- Search any contact by name
+- View all saved contacts
+- Clean menu-driven interface
+
+**Built using:** Python, Dictionaries, While loops, Input handling
